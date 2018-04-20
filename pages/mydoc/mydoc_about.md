@@ -1,5 +1,5 @@
 ---
-title: About the theme's author
+title: About the Benny's author
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: July 3, 2016
 tags: [getting_started]
