@@ -1,3 +1,12 @@
+---
+title: Bottle notes
+tags: bottle, python
+keywords: bottle
+last_updated: April 30, 2018
+summary: ""
+sidebar: product1_sidebar
+permalink: product1_bottle.html
+---
 # Overview
 Bottle allows you to skip most of the html required to make a website with decorator functions(prefixed by @)
 # Installation

@@ -27,8 +27,8 @@ entries:
       url: /p1_landing_page.html
       output: web
 
-    - title: Sample 1
-      url: /p1_sample1.html
+    - title: Bottle
+      url: /product1_bottle.html
       output: web, pdf
 
     - title: Sample 2
@@ -38,7 +38,7 @@ entries:
     - title: Sample 3
       url: /p1_sample3.html
       output: web, pdf
-	  
+
     - title: Sample Benny
       url: /p1_samplebenny.html
       output: web, pdf
